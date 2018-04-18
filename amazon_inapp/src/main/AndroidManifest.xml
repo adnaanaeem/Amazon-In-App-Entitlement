@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.adnan.jbsia.dani">
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name">
+
+    <receiver android:name="com.amazon.device.iap.ResponseReceiver">
+        <intent-filter>
+            <action
+                android:name="com.amazon.inapp.purchasing.NOTIFY"
+                android:permission="com.amazon.inapp.purchasing.Permission.NOTIFY" />
+        </intent-filter>
+    </receiver>
+    </application>
+
+</manifest>

@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\fad39a65269fe01469ea16fa9fca8369\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c871fc09d94c472f0e036f8bb721ccf2\AndroidManifest.xml:2:1-11:12
+MERGED from [:amazon_inapp] G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\1c323c819bf4adb5f76f7265a02b4220\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\a5c1d89ac9b0a3c9ebff061328b13efa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\b4d8aaf501a7c07b1d17ac0f27d8b033\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\457edf71d37f6bc37ff5d98705395e46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\18e78e1619f281a9ab02936232685ad8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\a8d070ded53c5e26514a3a030a2dd244\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\22f9d859053a3e168aaf4ad0b34521d6\AndroidManifest.xml:17:1-30:12
+INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\fad39a65269fe01469ea16fa9fca8369\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\fad39a65269fe01469ea16fa9fca8369\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c871fc09d94c472f0e036f8bb721ccf2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c871fc09d94c472f0e036f8bb721ccf2\AndroidManifest.xml:5:5-7:41
+MERGED from [:amazon_inapp] G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:amazon_inapp] G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\1c323c819bf4adb5f76f7265a02b4220\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\1c323c819bf4adb5f76f7265a02b4220\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\a5c1d89ac9b0a3c9ebff061328b13efa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\a5c1d89ac9b0a3c9ebff061328b13efa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\b4d8aaf501a7c07b1d17ac0f27d8b033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\b4d8aaf501a7c07b1d17ac0f27d8b033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\457edf71d37f6bc37ff5d98705395e46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\457edf71d37f6bc37ff5d98705395e46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\18e78e1619f281a9ab02936232685ad8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\18e78e1619f281a9ab02936232685ad8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\a8d070ded53c5e26514a3a030a2dd244\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\a8d070ded53c5e26514a3a030a2dd244\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\22f9d859053a3e168aaf4ad0b34521d6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\22f9d859053a3e168aaf4ad0b34521d6\AndroidManifest.xml:20:5-22:41
+INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml
+		INJECTED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:13:22-77
+application
+ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:15:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c871fc09d94c472f0e036f8bb721ccf2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c871fc09d94c472f0e036f8bb721ccf2\AndroidManifest.xml:9:5-20
+MERGED from [:amazon_inapp] G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:amazon_inapp] G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\22f9d859053a3e168aaf4ad0b34521d6\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\22f9d859053a3e168aaf4ad0b34521d6\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:19:9-40
+activity#com.amazon.sample.iap.entitlement.Home
+ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:21:19-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\sample\src\main\AndroidManifest.xml:27:27-74
+receiver#com.amazon.device.iap.ResponseReceiver
+ADDED from [:amazon_inapp] G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from [:amazon_inapp] G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:19-72
+intent-filter#action:name:com.amazon.inapp.purchasing.NOTIFY
+ADDED from [:amazon_inapp] G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:13-19:29
+action#com.amazon.inapp.purchasing.NOTIFY
+ADDED from [:amazon_inapp] G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:17-18:90
+	android:permission
+		ADDED from [:amazon_inapp] G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:21-87
+	android:name
+		ADDED from [:amazon_inapp] G:\ContentArcade\_Updates\Amazon_InApp_Entitlement_Demo\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:21-70
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\22f9d859053a3e168aaf4ad0b34521d6\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\22f9d859053a3e168aaf4ad0b34521d6\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\22f9d859053a3e168aaf4ad0b34521d6\AndroidManifest.xml:26:13-58

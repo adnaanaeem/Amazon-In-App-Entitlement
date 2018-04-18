@@ -1,0 +1,69 @@
+apply plugin: 'com.android.library'
+//apply from: 'maven-push.gradle'
+
+//apply plugin: 'maven'
+//
+//group = 'com.adnan.jbsia.dani'
+//version = '1.0'
+//
+//uploadArchives {
+//    repositories {
+//        mavenLocal()
+//    }
+//}
+
+
+ext {
+    bintrayRepo = 'jbsia.dani'
+    bintrayName = 'amazoninapp'
+
+    publishedGroupId = 'com.adnan.jbsia.dani'
+    libraryName = 'amazoninapp'
+    artifact = 'amazoninapp'
+
+    libraryDescription = 'Amazon Entitlement InApp Library Android'
+
+//    siteUrl = 'https://github.com/janishar/ParaCamera'
+//    gitUrl = 'https://github.com/janishar/ParaCamera.git'
+
+    libraryVersion = '1.0'
+
+    developerId = 'jbsia.dani@gmail.com'
+    developerName = 'Adnan Naeem'
+    developerEmail = 'jbsia.dani@gmail.com'
+
+//    licenseName = 'The Apache Software License, Version 2.0'
+//    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+//    allLicenses = ["Apache-2.0"]
+}
+
+
+
+android {
+    compileSdkVersion 27
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+dependencies {
+  //  implementation 'com.android.support:appcompat-v7:27.+'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'com.android.support.test:runner:1.0.1'
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+    implementation files('libs/in-app-purchasing-2.0.76.jar')
+}

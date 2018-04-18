@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Home">
+
+<Button
+    android:id="@+id/purchase_btn"
+    android:onClick="amazon_purchase_click"
+    android:layout_width="wrap_content"
+    android:layout_centerInParent="true"
+    android:textSize="20dp"
+    android:layout_height="wrap_content"
+    android:textColor="@android:color/black"
+    android:text="Amazon Purchase"/>
+
+
+    <TextView
+        android:padding="10dp"
+        android:id="@+id/purchase_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Purduct not purchased yet"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:layout_below="@+id/purchase_btn"/>
+
+</RelativeLayout>

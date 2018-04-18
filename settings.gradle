@@ -1,0 +1,2 @@
+include ':sample', ':amazon_inapp'
+project(':amazon_inapp').projectDir = new File(settingsDir, '/amazon_inapp')

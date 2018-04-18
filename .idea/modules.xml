@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Amazon_InApp_Entitlement_Demo.iml" filepath="$PROJECT_DIR$/Amazon_InApp_Entitlement_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amazon_inapp/amazon_inapp.iml" filepath="$PROJECT_DIR$/amazon_inapp/amazon_inapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>
