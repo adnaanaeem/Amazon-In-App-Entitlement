@@ -5,6 +5,12 @@ Simply add this module in your project and then start service of amazon on creat
   setupLibraryReceiver();  //
 
 // now add these methods in activity or fragment
+
+// Declare varibales
+
+ private BroadcastReceiver br;
+ AmazonInApp amazonInApp = new AmazonInApp();
+
 private void setupLibraryReceiver() {
         amazonInApp.setProductID(getResources().getString(R.string.product_ID));
         amazonInApp.onCreateAmazonInApp(_context);
