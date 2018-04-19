@@ -4,19 +4,20 @@ Amazon In App Entitlement for inapp purchases
 
 Simply add this module in your project and then start service of amazon on create method
 
- ## setupLibraryReceiver();
+ #### setupLibraryReceiver();
 
-// now add these methods in activity or fragment
 
-// Declare varibales
+Declare varibales of InApp Library and Broadcast Receiver
 
- private BroadcastReceiver br;
- AmazonInApp amazonInApp = new AmazonInApp();
+ #### private BroadcastReceiver br;
+ #### AmazonInApp amazonInApp = new AmazonInApp();
 
-private void setupLibraryReceiver() {
+Now add these methods in activity or fragment
+
+
+ private void setupLibraryReceiver() {
         amazonInApp.setProductID(getResources().getString(R.string.product_ID));
         amazonInApp.onCreateAmazonInApp(_context);
-
         br = new BroadcastReceiver() {
             @Override
             public void onReceive(Context context, Intent i) {
@@ -27,7 +28,7 @@ private void setupLibraryReceiver() {
         };
         _context.registerReceiver(br, new IntentFilter(amazonInApp.getBroadCastReceiver(_context)));
     }
-
+ 
     @Override
     protected void onResume() {
         super.onResume();
