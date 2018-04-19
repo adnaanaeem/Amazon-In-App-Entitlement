@@ -1,8 +1,10 @@
 # Amazon-In-App-Entitlement
-Amazon In App Entitlement for inapp purchaseds
+
+Amazon In App Entitlement for inapp purchases
+
 Simply add this module in your project and then start service of amazon on create method
 
-  setupLibraryReceiver();  //
+ ## setupLibraryReceiver();
 
 // now add these methods in activity or fragment
 
