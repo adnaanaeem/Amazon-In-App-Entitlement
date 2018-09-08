@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\ContentArcade\\_Updates\\Amazon_InApp_Entitlement_Demo\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
+            "outputFile": "E:\\ContentArcade\\_Updates\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zu\\values-zu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\fad39a65269fe01469ea16fa9fca8369\\res\\values-zu\\values-zu.xml",
+                    "source": "C:\\Users\\adnan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\70a8afbf8ddeb4f77edd1c58ca9880e8\\res\\values-zu\\values-zu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\a8d070ded53c5e26514a3a030a2dd244\\res\\values-zu\\values-zu.xml",
+                    "source": "C:\\Users\\adnan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\2162b4e1be43836de36152fc3827fe88\\res\\values-zu\\values-zu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

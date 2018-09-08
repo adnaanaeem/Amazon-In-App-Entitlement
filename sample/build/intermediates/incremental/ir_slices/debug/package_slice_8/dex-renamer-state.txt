@@ -1,0 +1,4 @@
+#Sat Sep 08 15:03:07 PKT 2018
+base.0=E\:\\ContentArcade\\_Updates\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

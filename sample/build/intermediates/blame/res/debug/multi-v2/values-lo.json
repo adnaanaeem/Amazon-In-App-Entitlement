@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\ContentArcade\\_Updates\\Amazon_InApp_Entitlement_Demo\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
+            "outputFile": "E:\\ContentArcade\\_Updates\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lo\\values-lo.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\fad39a65269fe01469ea16fa9fca8369\\res\\values-lo\\values-lo.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,305,412,497,602,714,791,869,949,1056,1153,1251,1356,1459,1563,1720,1816",
-                        "endColumns": "102,96,106,84,104,111,76,77,79,106,96,97,104,102,103,156,95,80",
-                        "endOffsets": "203,300,407,492,597,709,786,864,944,1051,1148,1246,1351,1454,1558,1715,1811,1892"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\a8d070ded53c5e26514a3a030a2dd244\\res\\values-lo\\values-lo.xml",
+                    "source": "C:\\Users\\adnan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\2162b4e1be43836de36152fc3827fe88\\res\\values-lo\\values-lo.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "1897",
                         "endColumns": "100",
                         "endOffsets": "1993"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\adnan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\70a8afbf8ddeb4f77edd1c58ca9880e8\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,412,497,602,714,791,869,949,1056,1153,1251,1356,1459,1563,1720,1816",
+                        "endColumns": "102,96,106,84,104,111,76,77,79,106,96,97,104,102,103,156,95,80",
+                        "endOffsets": "203,300,407,492,597,709,786,864,944,1051,1148,1246,1351,1454,1558,1715,1811,1892"
                     }
                 }
             ]
