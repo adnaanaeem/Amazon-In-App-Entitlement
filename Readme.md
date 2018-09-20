@@ -124,8 +124,6 @@ AmazonInApp amazonInApp = new AmazonInApp();
 ```
 
 <h3>Add these also if you are working with fargments</h3>
-- [ ] Downlaod Amzaon app store app and instal it.
-- [ ] Downlaod Amazon App Tester app here and instal it also.
-- [ ] Get json file for test product key from app here and copy to phone memory.
-- [ ] All set now download the peoject and run the demo app for purchase demo.
+
+
 
