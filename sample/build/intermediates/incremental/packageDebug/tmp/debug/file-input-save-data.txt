@@ -1,10 +1,10 @@
 #Internal package file, do not edit.
-#Sat Sep 08 15:03:07 PKT 2018
-1.base=E\:\\ContentArcade\\_Updates\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+#Fri Sep 21 01:57:40 PKT 2018
+1.base=F\:\\_GitHub\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\14
 2.path=classes.dex
 0.baseType=DIRECTORY
 3.baseType=DIRECTORY
-2.base=E\:\\ContentArcade\\_Updates\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+2.base=F\:\\_GitHub\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\11
 3.set=DEX
 2.set=DEX
 1.baseType=DIRECTORY
@@ -12,8 +12,8 @@
 count=4
 1.set=DEX
 0.path=classes.dex
-3.base=E\:\\ContentArcade\\_Updates\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+3.base=F\:\\_GitHub\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\13
 0.set=DEX
-0.base=E\:\\ContentArcade\\_Updates\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+0.base=F\:\\_GitHub\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\12
 2.baseType=DIRECTORY
 1.path=classes.dex

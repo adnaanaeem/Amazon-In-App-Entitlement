@@ -1,0 +1,8 @@
+{
+  "com.amazon.sample.iap.entitlement.level2" : {
+    "itemType": "ENTITLED",
+    "price": 10.00,
+    "title": "Level 2",
+    "description": "An entitlement to play level 2"
+  }
+}
