@@ -3,6 +3,34 @@
 
 Amazon In App Entitlement for inapp purchases
 
+
+<p>
+
+<div class="row">
+   <div class="column">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/Screenshots/1.png">
+<img src="https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/Screenshots/1.png" height="auto" width="200"></a> 
+	  </dive>
+
+ <div class="column">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/Screenshots/2.png">
+<img src="https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/Screenshots/2.png" height="auto" width="200"></a>
+	  </div>
+
+ <div class="column">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/Screenshots/3.png">
+<img src="https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/Screenshots/3.png" height="auto" width="200"></a>
+	</div>
+
+ <div class="column">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/Screenshots/4.png">
+<img src="https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/Screenshots/4.png" height="auto" width="200"></a>
+</div>
+</div>
+</p>
+
+
+
 <h4>Add it in your root build.gradle at the end of repositories:</h4>
 
 
