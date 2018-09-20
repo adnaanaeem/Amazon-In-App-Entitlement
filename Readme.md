@@ -1,20 +1,40 @@
 # Amazon-In-App-Entitlement
+[![](https://jitpack.io/v/Adnan865/Amazon-In-App-Entitlement.svg)](https://jitpack.io/#Adnan865/Amazon-In-App-Entitlement)
 
 Amazon In App Entitlement for inapp purchases
 
-Simply add this module in your project and then start service of amazon on create method
-
- #### setupLibraryReceiver();
+<h4>Add it in your root build.gradle at the end of repositories:</h4>
 
 
-Declare varibales of InApp Library and Broadcast Receiver
+```
+allprojects {
+		 repositories {
+			 ...
+			 maven { url 'https://jitpack.io' }
+		 }
+}
+```
 
- #### private BroadcastReceiver br;
- #### AmazonInApp amazonInApp = new AmazonInApp();
+<h4>Step #2. Add the dependency See Latest Release</h4> 
 
-Now add these methods in activity or fragment
+[![](https://jitpack.io/v/Adnan865/Amazon-In-App-Entitlement.svg)](https://jitpack.io/#Adnan865/Amazon-In-App-Entitlement)
 
+```
+dependencies {
+	        implementation 'com.github.Adnan865:Amazon-In-App-Entitlement:1.0.0'
+	}
+```
+ 
+<h4>Declare varibales of InApp Library and Broadcast Receiver</h4>
 
+```
+private BroadcastReceiver br;
+AmazonInApp amazonInApp = new AmazonInApp();
+```
+
+<h4>Now add these methods in activity or fragment</h4>
+
+```
  private void setupLibraryReceiver() {
         amazonInApp.setProductID(getResources().getString(R.string.product_ID));
         amazonInApp.onCreateAmazonInApp(_context);
@@ -28,7 +48,17 @@ Now add these methods in activity or fragment
         };
         _context.registerReceiver(br, new IntentFilter(amazonInApp.getBroadCastReceiver(_context)));
     }
- 
+```
+
+<h4>cal this module in your project and then start service of amazon on create method</h4>
+
+```
+ setupLibraryReceiver();
+ ```
+
+<h4>Implemnet overirde methods</h4>
+
+```
     @Override
     protected void onResume() {
         super.onResume();
@@ -45,21 +75,29 @@ Now add these methods in activity or fragment
         super.onPause();
         amazonInApp.onPauseAmazonInApp();
     }
+```
 
-//-----------------------------------Add these also for fargment ---------------
+<h4>Add these also if you are working with fargments</h4>
 
-//  Used for Fragment broadcast
-//    @Override
-//    public void onAttach(Context context)
-//    {
-//        super.onAttach(context);
-//        _context = context;
-//    }
-//
-//    @Override
-//    public void onDestroyView() {
-//        super.onDestroyView();
-//        _context.unregisterReceiver(br);
-//    }
+```
+ // Used for Fragment broadcast
+    @Override
+    public void onAttach(Context context)
+    {
+        super.onAttach(context);
+        _context = context;
+    }
 
-}
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        _context.unregisterReceiver(br);
+    }
+```
+
+<h3>Add these also if you are working with fargments</h3>
+1: Downlaod Amzaon app store app and instal it
+2: Downlaod Amazon App Tester app and instal it also. [https://www.amazon.com/Amazon-App-Tester/dp/B00BN3YZM2/]
+3: Get json file for test product key from here[] and copy to phone memory
+4: all set now download the peoject and run the demo app for purchase demo
+
