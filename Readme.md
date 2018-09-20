@@ -23,7 +23,7 @@ dependencies {
 	}
 ```
 
-<h4>add this module in your project and then start service of amazon on create method</h4>
+<h4>Add this module in your project and then start service of amazon on create method</h4>
 
 ```
  setupLibraryReceiver();
@@ -52,5 +52,4 @@ AmazonInApp amazonInApp = new AmazonInApp();
         };
         _context.registerReceiver(br, new IntentFilter(amazonInApp.getBroadCastReceiver(_context)));
     }
-    
-    ```
+```
