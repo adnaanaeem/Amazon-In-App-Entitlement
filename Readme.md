@@ -123,7 +123,7 @@ AmazonInApp amazonInApp = new AmazonInApp();
     }
 ```
 
-<h3For SandBox Test Purchase Enviroment do below tasks</h3>
+<h3>For SandBox Test Purchase Enviroment do below tasks</h3>
 
 
 - [ ] Downlaod Amzaon app store app from [here](https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/amazonappstore.apk) and instal it.
