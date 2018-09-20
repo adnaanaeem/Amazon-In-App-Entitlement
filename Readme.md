@@ -55,3 +55,26 @@ AmazonInApp amazonInApp = new AmazonInApp();
         _context.registerReceiver(br, new IntentFilter(amazonInApp.getBroadCastReceiver(_context)));
     }
 ```
+
+<h4>Implemnet overirde methods</h4>
+
+```
+    @Override
+    protected void onResume() {
+        super.onResume();
+        amazonInApp.onResumeAmazonInApp();
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
+        amazonInApp.onStartAmazonInApp();
+    }
+    @Override
+    protected void onPause() {
+        super.onPause();
+        amazonInApp.onPauseAmazonInApp();
+    }
+```
+
+
