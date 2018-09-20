@@ -77,4 +77,21 @@ AmazonInApp amazonInApp = new AmazonInApp();
     }
 ```
 
+<h4>Add these also for fargment</h4>
+
+```
+ // Used for Fragment broadcast
+    @Override
+    public void onAttach(Context context)
+    {
+        super.onAttach(context);
+        _context = context;
+    }
+
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        _context.unregisterReceiver(br);
+    }
+```
 
