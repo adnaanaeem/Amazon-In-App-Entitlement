@@ -77,7 +77,7 @@ AmazonInApp amazonInApp = new AmazonInApp();
     }
 ```
 
-<h4>Add these also for fargment</h4>
+<h4>Add these also if you are working with fargments</h4>
 
 ```
  // Used for Fragment broadcast
