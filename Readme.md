@@ -2,11 +2,6 @@
 
 Amazon In App Entitlement for inapp purchases
 
-
-<h4>Step #2. Add the dependency [See Latest Release]</h4> 
-
-[![](https://jitpack.io/v/Adnan865/MultiShapeBlurView.svg)](https://jitpack.io/#Adnan865/MultiShapeBlurView)
-
 <h4>Add it in your root build.gradle at the end of repositories:</h4>
 
 
@@ -19,7 +14,8 @@ allprojects {
 }
 ```
 
-<h4>Add the dependency</h4>
+<h4>Step #2. Add the dependency [See Latest Release]</h4> 
+[![](https://jitpack.io/v/Adnan865/MultiShapeBlurView.svg)](https://jitpack.io/#Adnan865/MultiShapeBlurView)
 
 ```
 dependencies {
@@ -58,45 +54,3 @@ AmazonInApp amazonInApp = new AmazonInApp();
     }
     
     ```
-   
-<h4>Implemnet overirde methods</h4>
-    
-    
-    ```
-    @Override
-    protected void onResume() {
-        super.onResume();
-        amazonInApp.onResumeAmazonInApp();
-    }
-
-    @Override
-    protected void onStart() {
-        super.onStart();
-        amazonInApp.onStartAmazonInApp();
-    }
-    @Override
-    protected void onPause() {
-        super.onPause();
-        amazonInApp.onPauseAmazonInApp();
-    }
-    ```
-    
- <h4>Add these also for fargment</h4>
- 
- 
- 
- ```
- // Used for Fragment broadcast
-    @Override
-    public void onAttach(Context context)
-    {
-        super.onAttach(context);
-        _context = context;
-    }
-
-    @Override
-    public void onDestroyView() {
-        super.onDestroyView();
-        _context.unregisterReceiver(br);
-    }
-     ```
