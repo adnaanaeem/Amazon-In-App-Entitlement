@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\ContentArcade\\_Updates\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "outputFile": "F:\\_GitHub\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\adnan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\70a8afbf8ddeb4f77edd1c58ca9880e8\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\861fc52fe8d8be8791e409a7f2ab3f1c\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
