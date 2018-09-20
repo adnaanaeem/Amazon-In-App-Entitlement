@@ -24,12 +24,6 @@ dependencies {
 	        implementation 'com.github.Adnan865:Amazon-In-App-Entitlement:1.0.0'
 	}
 ```
-
-<h4>Add this module in your project and then start service of amazon on create method</h4>
-
-```
- setupLibraryReceiver();
- ```
  
 <h4>Declare varibales of InApp Library and Broadcast Receiver</h4>
 
@@ -55,6 +49,12 @@ AmazonInApp amazonInApp = new AmazonInApp();
         _context.registerReceiver(br, new IntentFilter(amazonInApp.getBroadCastReceiver(_context)));
     }
 ```
+
+<h4>cal this module in your project and then start service of amazon on create method</h4>
+
+```
+ setupLibraryReceiver();
+ ```
 
 <h4>Implemnet overirde methods</h4>
 
