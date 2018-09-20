@@ -4,16 +4,16 @@ ADDED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.
 INJECTED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:2:1-32:12
 INJECTED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:2:1-32:12
 INJECTED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:2:1-32:12
-MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\861fc52fe8d8be8791e409a7f2ab3f1c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bb6949f85f91ab87b7f07816fffbcbdc\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\de379986cfd8d33c82211f771213ad1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\67c25cfd2743e57b8b04e28de7f37b74\AndroidManifest.xml:2:1-11:12
 MERGED from [:amazon_inapp] F:\_GitHub\Amazon-In-App-Entitlement\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-23:12
-MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\d614a7586232a8bf2bc2959c97c53772\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\91516bb57f9c1441bdb2727e4cf36311\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\7504e1a9e01d76ba387aed85457fc284\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\bc4d42c816730cd1de5231c08b527a14\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\46be1489331cb169a52e980094619bce\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\987487c8be769016b3af51172cbf01ec\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a918f332566f0915503b8ba90b2abb0b\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\0910d9c18ebb0825e27762a803f9ec43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\0741c2807bdd7422df012e57611a7a4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\ebe8589c9b94cad44736f4cc8a35eb6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\8b700debb200d6099f87cb59c26970d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\2d1fa739589c275a0bc43f3a0ea6648a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\741f535157195a26c5c00709dc5d56a6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ae280e0bfd06fa073cc466e955679b47\AndroidManifest.xml:17:1-30:12
 INJECTED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:2:1-32:12
 INJECTED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:2:1-32:12
 INJECTED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:2:1-32:12
@@ -35,26 +35,26 @@ uses-sdk
 ADDED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\861fc52fe8d8be8791e409a7f2ab3f1c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\861fc52fe8d8be8791e409a7f2ab3f1c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bb6949f85f91ab87b7f07816fffbcbdc\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bb6949f85f91ab87b7f07816fffbcbdc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\de379986cfd8d33c82211f771213ad1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\de379986cfd8d33c82211f771213ad1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\67c25cfd2743e57b8b04e28de7f37b74\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\67c25cfd2743e57b8b04e28de7f37b74\AndroidManifest.xml:5:5-7:41
 MERGED from [:amazon_inapp] F:\_GitHub\Amazon-In-App-Entitlement\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:amazon_inapp] F:\_GitHub\Amazon-In-App-Entitlement\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\d614a7586232a8bf2bc2959c97c53772\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\d614a7586232a8bf2bc2959c97c53772\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\91516bb57f9c1441bdb2727e4cf36311\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\91516bb57f9c1441bdb2727e4cf36311\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\7504e1a9e01d76ba387aed85457fc284\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\7504e1a9e01d76ba387aed85457fc284\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\bc4d42c816730cd1de5231c08b527a14\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\bc4d42c816730cd1de5231c08b527a14\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\46be1489331cb169a52e980094619bce\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\46be1489331cb169a52e980094619bce\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\987487c8be769016b3af51172cbf01ec\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\987487c8be769016b3af51172cbf01ec\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a918f332566f0915503b8ba90b2abb0b\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a918f332566f0915503b8ba90b2abb0b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\0910d9c18ebb0825e27762a803f9ec43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\0910d9c18ebb0825e27762a803f9ec43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\0741c2807bdd7422df012e57611a7a4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\0741c2807bdd7422df012e57611a7a4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\ebe8589c9b94cad44736f4cc8a35eb6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\ebe8589c9b94cad44736f4cc8a35eb6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\8b700debb200d6099f87cb59c26970d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\8b700debb200d6099f87cb59c26970d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\2d1fa739589c275a0bc43f3a0ea6648a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\2d1fa739589c275a0bc43f3a0ea6648a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\741f535157195a26c5c00709dc5d56a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\741f535157195a26c5c00709dc5d56a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ae280e0bfd06fa073cc466e955679b47\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ae280e0bfd06fa073cc466e955679b47\AndroidManifest.xml:20:5-22:41
 INJECTED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
@@ -79,12 +79,12 @@ ADDED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.
 		ADDED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:13:22-77
 application
 ADDED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:15:5-30:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bb6949f85f91ab87b7f07816fffbcbdc\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\bb6949f85f91ab87b7f07816fffbcbdc\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\67c25cfd2743e57b8b04e28de7f37b74\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\67c25cfd2743e57b8b04e28de7f37b74\AndroidManifest.xml:9:5-20
 MERGED from [:amazon_inapp] F:\_GitHub\Amazon-In-App-Entitlement\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-21:19
 MERGED from [:amazon_inapp] F:\_GitHub\Amazon-In-App-Entitlement\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-21:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a918f332566f0915503b8ba90b2abb0b\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a918f332566f0915503b8ba90b2abb0b\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ae280e0bfd06fa073cc466e955679b47\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ae280e0bfd06fa073cc466e955679b47\AndroidManifest.xml:24:5-28:19
 	android:label
 		ADDED from F:\_GitHub\Amazon-In-App-Entitlement\sample\src\main\AndroidManifest.xml:18:9-41
 	android:icon
@@ -124,8 +124,8 @@ ADDED from [:amazon_inapp] F:\_GitHub\Amazon-In-App-Entitlement\amazon_inapp\bui
 	android:name
 		ADDED from [:amazon_inapp] F:\_GitHub\Amazon-In-App-Entitlement\amazon_inapp\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:21-70
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a918f332566f0915503b8ba90b2abb0b\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ae280e0bfd06fa073cc466e955679b47\AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a918f332566f0915503b8ba90b2abb0b\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ae280e0bfd06fa073cc466e955679b47\AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a918f332566f0915503b8ba90b2abb0b\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\jbsia\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ae280e0bfd06fa073cc466e955679b47\AndroidManifest.xml:26:13-58

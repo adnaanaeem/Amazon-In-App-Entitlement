@@ -4,7 +4,17 @@
             "outputFile": "F:\\_GitHub\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\861fc52fe8d8be8791e409a7f2ab3f1c\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\741f535157195a26c5c00709dc5d56a6\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\de379986cfd8d33c82211f771213ad1b\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\987487c8be769016b3af51172cbf01ec\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

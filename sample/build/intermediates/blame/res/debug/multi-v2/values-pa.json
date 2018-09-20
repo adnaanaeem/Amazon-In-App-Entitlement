@@ -4,7 +4,17 @@
             "outputFile": "F:\\_GitHub\\Amazon-In-App-Entitlement\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\987487c8be769016b3af51172cbf01ec\\res\\values-pa\\values-pa.xml",
+                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\de379986cfd8d33c82211f771213ad1b\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,410,496,596,709,786,862,941,1042,1146,1243,1352,1451,1561,1720,1820",
+                        "endColumns": "102,96,104,85,99,112,76,75,78,100,103,96,108,98,109,158,99,79",
+                        "endOffsets": "203,300,405,491,591,704,781,857,936,1037,1141,1238,1347,1446,1556,1715,1815,1895"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\741f535157195a26c5c00709dc5d56a6\\res\\values-pa\\values-pa.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "1900",
                         "endColumns": "100",
                         "endOffsets": "1996"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jbsia\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\861fc52fe8d8be8791e409a7f2ab3f1c\\res\\values-pa\\values-pa.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,208,305,410,496,596,709,786,862,941,1042,1146,1243,1352,1451,1561,1720,1820",
-                        "endColumns": "102,96,104,85,99,112,76,75,78,100,103,96,108,98,109,158,99,79",
-                        "endOffsets": "203,300,405,491,591,704,781,857,936,1037,1141,1238,1347,1446,1556,1715,1815,1895"
                     }
                 }
             ]
