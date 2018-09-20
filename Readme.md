@@ -17,6 +17,8 @@ allprojects {
 
 <h4>Step #2. Add the dependency See Latest Release</h4> 
 
+[![](https://jitpack.io/v/Adnan865/Amazon-In-App-Entitlement.svg)](https://jitpack.io/#Adnan865/Amazon-In-App-Entitlement)
+
 ```
 dependencies {
 	        implementation 'com.github.Adnan865:Amazon-In-App-Entitlement:1.0.0'
