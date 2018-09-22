@@ -78,7 +78,7 @@ AmazonInApp amazonInApp = new AmazonInApp();
     }
 ```
 
-<h4>Call this module in your project and then start service of amazon on create method</h4>
+<h4>Call this module in on create method.</h4>
 
 ```
  setupLibraryReceiver();
@@ -122,6 +122,13 @@ AmazonInApp amazonInApp = new AmazonInApp();
         _context.unregisterReceiver(br);
     }
 ```
+
+<h4>Now just Call this method to purchase</h4>
+
+```
+ amazonInApp.purchase();
+ ```
+ 
 
 <h3>For SandBox Test Purchase Enviroment do below tasks</h3>
 
