@@ -78,7 +78,7 @@ AmazonInApp amazonInApp = new AmazonInApp();
     }
 ```
 
-<h4>cal this module in your project and then start service of amazon on create method</h4>
+<h4>Call this module in your project and then start service of amazon on create method</h4>
 
 ```
  setupLibraryReceiver();
