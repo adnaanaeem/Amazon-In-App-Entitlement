@@ -64,7 +64,7 @@ AmazonInApp amazonInApp = new AmazonInApp();
 
 ```
  amazonInApp.setProductID(getResources().getString(R.string.product_ID));
-        amazonInApp.onCreateAmazonInApp(_context);
+ amazonInApp.onCreateAmazonInApp(_context);
 ```
 
 
