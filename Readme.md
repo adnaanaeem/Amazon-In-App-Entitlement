@@ -60,12 +60,18 @@ private BroadcastReceiver br;
 AmazonInApp amazonInApp = new AmazonInApp();
 ```
 
-<h4>Now add these methods in activity or fragment</h4>
+<h4>Initilize Amazon Inapp veraibales</h4>
+
+```
+ amazonInApp.setProductID(getResources().getString(R.string.product_ID));
+        amazonInApp.onCreateAmazonInApp(_context);
+```
+
+
+<h4>Now add this methods in activity or fragment</h4>
 
 ```
  private void setupLibraryReceiver() {
-        amazonInApp.setProductID(getResources().getString(R.string.product_ID));
-        amazonInApp.onCreateAmazonInApp(_context);
         br = new BroadcastReceiver() {
             @Override
             public void onReceive(Context context, Intent i) {
