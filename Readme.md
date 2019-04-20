@@ -139,8 +139,8 @@ AmazonInApp amazonInApp = new AmazonInApp();
 <h3>For SandBox Test Purchase Enviroment do below tasks</h3>
 
 
-- [ !] Downlaod Amzaon app store app from [here](https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/amazonappstore.apk) and install it.
-- [ ] Downlaod Amazon App Tester app [here](https://www.amazon.com/Amazon-App-Tester/dp/B00BN3YZM2/) or from <b>amzaon app store</b> and instal it also.
-- [ ] Get json file for test product key from app [here](https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/amazon.sdktester.json) and copy to phone memory.
-- [ ] All set now download the peoject and run the demo app for purchase demo.
+- [x] Downlaod Amzaon app store app from [here](https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/amazonappstore.apk) and install it.
+- [x] Downlaod Amazon App Tester app [here](https://www.amazon.com/Amazon-App-Tester/dp/B00BN3YZM2/) or from <b>amzaon app store</b> and instal it also.
+- [x] Get json file for test product key from app [here](https://github.com/Adnan865/Amazon-In-App-Entitlement/blob/master/extras/amazon.sdktester.json) and copy to phone memory.
+- [x] All set now download the peoject and run the demo app for purchase demo.
 
