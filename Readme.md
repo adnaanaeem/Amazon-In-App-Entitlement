@@ -90,7 +90,7 @@ AmazonInApp amazonInApp = new AmazonInApp();
  setupLibraryReceiver();
  ```
 
-<h4>Implemnet overirde methods</h4>
+<h4>Implemnet overide methods</h4>
 
 ```
     @Override
